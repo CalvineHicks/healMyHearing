@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-healmyhearing-dev-222008-authRole",
+      "UnauthRoleArn": "arn:aws:iam::436357135780:role/amplify-healmyhearing-dev-222008-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::436357135780:role/amplify-healmyhearing-dev-222008-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-healmyhearing-dev-222008-deployment",
+      "UnauthRoleName": "amplify-healmyhearing-dev-222008-unauthRole",
+      "StackName": "amplify-healmyhearing-dev-222008",
+      "StackId": "arn:aws:cloudformation:us-west-2:436357135780:stack/amplify-healmyhearing-dev-222008/40f78c50-1426-11eb-a501-06be751c1bd6",
+      "AmplifyAppId": "d3cgqhyv071umq"
+    }
+  }
+}
